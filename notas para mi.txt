@@ -1,0 +1,10 @@
+POST en api
+
+{
+"data":
+        {
+                "title": "xxxx",
+                "description": "xxxx"
+        }
+
+}
